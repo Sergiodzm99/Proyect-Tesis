@@ -263,6 +263,4 @@ scatter3D(x, y, z, pch = 18, cex = 2, bty ="g",
                       facets = NA, 
                       fit = fitpoints))
   
-  #Interactive model (toma el último gráfico que se creó)
-
-plotrgl()
+ 
